@@ -30,3 +30,8 @@ class MyTwitchBot(TwitchIRCClient):
 
 For more information on the methods, look into the source code and the
 docstrings.
+
+
+## Dependencies
+
+This library depends on the `asynchat` and `schedule` libraries.
